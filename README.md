@@ -1,6 +1,7 @@
 # Age Timer
 
-A simple web application that calculates and displays your age in years and milliseconds based on your date of birth.
+A simple web application that calculates and displays your age in years and milliseconds based on your date of birth.<br>
+<a href="https://anuragjain-git.github.io/age-timer/">Calculate you age here</a> 
 
 ## Age Calculation Logic
 
