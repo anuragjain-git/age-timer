@@ -35,11 +35,10 @@ body {
     flex-direction: column;
     align-items: center;
     background-color: #fff;
-    padding: 60px 250px 70px; /* Adjusted padding for increased width and height */
+    padding: 20px 80px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-
 
 .age-h1 {
     color: #333;
@@ -48,10 +47,10 @@ body {
 
 .age {
     color: #333;
-    font-size: 45px;
+    font-size: 15px;
     position: relative;
-    bottom: -30px;
-    right: -13px;
+    bottom: -10px;
+    right: -5px;
 }
 
 /* .count {
@@ -61,14 +60,14 @@ body {
 } */
 
 .year {
-    font-size: 120px;
+    font-size: 40px;
     color: #4caf50; 
   }
   
 .ms {
-    font-size: 60px;
+    font-size: 20px;
     color: red;
     vertical-align: super;
     position: relative;
-    top: -32px;
+    top: -8px;
   }
